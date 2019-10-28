@@ -27,3 +27,11 @@ The basic operations in genetic algorithm includes -
     2. Crossover : Recombines the entries to produce next generation.
     3. Mutation : Adds randomness to the reproduction process.
 ![GA](https://github.com/Ratna04priya/Travelling-Salesman-Problem-using-Genetic-Algorithm/blob/master/ga.png)
+
+
+## About the Project
+
+In this project, the 7 cities are taken and approx distance between them. Using the python libraries the various possiblities and selections of path are printed.
+
+Using Genetic Algorithm, an optimal solution is shown which satisfies the conditions of Travelling Salesman Problem.
+
